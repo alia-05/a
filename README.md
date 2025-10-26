@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alia-05/alia-05/main/reader.jpg" alt="Alia Awel" width="200" height="200" style="border-radius:50%; box-shadow:0 0 20px #a29bfe;"/>
+  <img src="https://raw.githubusercontent.com/alia-05/alia-05/main/hachalu.jpg" alt="Alia Awel" width="200" height="200" style="border-radius:50%; box-shadow:0 0 20px #a29bfe;"/>
 </p>
 
 ---
